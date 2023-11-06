@@ -14,7 +14,7 @@ The online bookstore website is a dynamic and user-friendly platform designed to
 - Edit personal details
 - Saving login, place order information,address,credit card information in MariaDB database
 
-### Main Website Page
+### Screenshots of Website pages
 
 - Main Website Page
 
